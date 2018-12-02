@@ -3,7 +3,10 @@
 
 1. 将kindlegen和epubToMobi.sh文件导入到你要转换内容的文件夹下
 2. 终端下路径切换到你的内容文件夹下
-```
-cd 你内容的文件夹下
-./epubToMobi.sh
-```
+  ```
+  cd 你内容的文件夹下
+  ```
+3. 然后运行
+  ```
+  ./epubToMobi.sh
+  ```
